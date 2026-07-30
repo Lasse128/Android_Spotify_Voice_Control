@@ -28,10 +28,9 @@ An Android application that enables voice-controlled interactions with Spotify p
 - **Queue Management**: Add specific songs to your Spotify queue via voice command.
 - **Playlist Management**: Save the currently playing song to one of your personal playlists.
 - **Seek Control**: Fast-forward or rewind by a specific amount of time (e.g., "seek forward 30 seconds").
-- **Volume Control**: Adjust the device volume (up, down, or significantly louder/quieter) without touching the screen.
+- **Volume Control**: Adjust the device volume (up, down, or significantly louder/quieter).
 - **Playback Modes**: Toggle shuffle and repeat modes on or off.
 - **Status Inquiry**: Ask what song or artist is currently playing.
-- **Audio Feedback**: Provides audio confirmations upon successful command recognition or action execution.
 - **Modern User Interface**: Built using Jetpack Compose for a responsive and declarative UI architecture.
 - **Authentication**: Implements the OAuth 2.0 PKCE (Proof Key for Code Exchange) flow for secure Spotify Web API access.
 
