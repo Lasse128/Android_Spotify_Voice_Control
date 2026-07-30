@@ -5,6 +5,22 @@ An Android application that enables voice-controlled interactions with Spotify p
 > [!NOTE]
 > **Language Support**: The voice command parser is currently exclusively optimized for the **German language** (e.g., "Spiele...", "Lauter", "Warteschlange"). However, the underlying architecture can be easily extended to support other languages.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1.jpg" width="30%" />
+  <img src="screenshots/2.jpg" width="30%" />
+  <img src="screenshots/3.jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="screenshots/4.jpg" width="30%" />
+  <img src="screenshots/5.jpg" width="30%" />
+  <img src="screenshots/6.jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="screenshots/7.jpg" width="30%" />
+</p>
+
 ## Features
 
 - **Basic Playback Control**: Play, pause, skip to the next or previous track, and restart the current track.
